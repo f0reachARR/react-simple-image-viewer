@@ -1,5 +1,5 @@
 import React from 'react';
-import './ReactSimpleImageViewer.css';
+// import './ReactSimpleImageViewer.css';
 
 interface IProps {
   src: string[];
